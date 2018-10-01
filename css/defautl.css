@@ -1,0 +1,31 @@
+@charset "UTF-8"; 
+body{
+background-color:#fdf8cc;
+background-image:url(https://www.t-kougei.ac.jp/assets/imgs/img_top_title.png);
+background-repeat:no-repeat;
+}
+h1{
+    font-size: 1.75em;
+    color:#3399cc
+}
+h1 span{
+    color: #d0e35b;
+}
+h2{
+    font-size: 1.25em;
+    color:#ffffff
+}
+p{
+    font-size: 0.8em;
+}
+li{
+    font-size: 0.8em;
+}
+#lead{
+    border-top: #6fbb9a 1px dotted;
+    text-align: center;
+}
+.greeting{
+    border-top: #6fdd9a 1px dotted;
+    text-align: center;
+}
